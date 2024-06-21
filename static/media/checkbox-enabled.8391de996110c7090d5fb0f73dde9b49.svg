@@ -1,0 +1,32 @@
+<svg width="200" height="200" viewBox="0 0 255 255" fill="none" id="discotools-selected-svg" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="shape-gradient-Square" gradientTransform="rotate(90)">
+			<stop offset="0%" stop-color="#5865F1">
+			</stop>
+		</linearGradient>
+	</defs>
+	<defs>
+		<mask id="mask-Square" fill="black">
+			<rect width="100%" height="100%" fill="white">
+			</rect>
+			<g style="transform-origin: center center 0px;" opacity="100">
+			</g>
+		</mask>
+	</defs>
+	<g fill="url(#shape-gradient-Square)">
+		<g mask="url(#mask-Square)">
+			<rect x="0.5" y="0.5" width="254" height="254" rx="0" stroke="#ffffff" stroke-linejoin="round" stroke-width="0" style="transform: none; transform-origin: 127.5px 127.5px 0px;" transform-origin="127.5px 127.5px">
+			</rect>
+		</g>
+	</g>
+	<defs>
+		<linearGradient id="icon-gradient-0" gradientTransform="rotate(90)">
+			<stop offset="0%" stop-color="#fff">
+			</stop>
+		</linearGradient>
+	</defs>
+	<g fill="url(#icon-gradient-0)" stroke-linejoin="round" style="transform-origin: 76.682px 69.1415px 0px; transform: translateX(51px) translateY(58.5px) scale(1.2) rotate(0deg);" transform-origin="76.68200096487999px 69.14150115847588px">
+		<path d="M152.958 19.592L65.113 137.938.406 89.003 19.45 62.998l38.086 29.28L126.952.345l26.006 19.247z" viewBox="0 0 153 138">
+		</path>
+	</g>
+</svg>
